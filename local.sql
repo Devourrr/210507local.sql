@@ -1,0 +1,2 @@
+desc emp;
+SAL*12+COMM ANNSAL
